@@ -1,5 +1,7 @@
-This is the archive of my Pure CSS Animations
+# This is the archive of my Pure CSS Animations
 
-Viking in hurry
+## + Viking in hurry
 
-Humanoid Run Cycle
+## + Humanoid Run Cycle
+
+## + Figures

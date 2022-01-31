@@ -1,4 +1,4 @@
-How CSS Perspective Works
+## How CSS Perspective Works
 
-speaker Amit Sheen
-https://css-tricks.com/how-css-perspective-works/
+[link css-tricks](https://css-tricks.com/how-css-perspective-works/)
+[link mdn](https://developer.mozilla.org/ru/docs/Web/CSS/perspective)
